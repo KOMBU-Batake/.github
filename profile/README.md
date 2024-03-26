@@ -5,4 +5,4 @@ All codes will be open to the public after the Japan Open. [Link](https://github
 
 
 # ポスター
-![alt text](../めっちゃおいしいパスタ.png)
+![alt text](.././めっちゃおいしいパスタ.png)
